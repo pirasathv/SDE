@@ -7,6 +7,7 @@ I had approached the design with the concept of FIFO implementation using a Link
 
 ## Design Question
 
+![Pirasath_Design](https://user-images.githubusercontent.com/9923573/114101973-85a99f80-9894-11eb-8a07-52865a2069d9.jpg)
 
 
 The main goal of our design is to demonstrate how we will create a solution that is resilient and fault-tolerant. It will be a data-driven architecture designed for real-time processing, historical storage, and rendering metrics. I've created a high-level overview of what tools we will use, and some reference information.
